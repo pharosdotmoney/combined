@@ -1,0 +1,6 @@
+[submodule "Pharos-Frontend"]
+	path = Pharos-Frontend
+	url = https://github.com/pharosdotmoney/Pharos-Frontend
+[submodule "Pharos-Contract"]
+	path = Pharos-Contract
+	url = https://github.com/pharosdotmoney/Pharos-Contract
